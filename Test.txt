@@ -1,1 +1,2 @@
 doing automation testing
+start writing scripts
